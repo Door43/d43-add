@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[add:home|Door43 (add)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-add|d43-add repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-add/archive/master.zip|d43-add.zip]]
+
+**Recent Changes**
+{{changes>ns = add}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/add|Ethnologue data]]
+
